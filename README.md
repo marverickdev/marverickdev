@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RMRizal-UP, a student of many things, mainly Computer Science and Music.
-- 👀 I’m interested in ML/AI, Software and Web Development
+- 👀 I’m interested in Music/Sound Design, ML/AI, Software and Web Development
 - 🌱 I’m currently learning Python and Sound Design
 - 💞️ I’m looking to collaborate on anything, really (to the best of my ability)
 - 📫 How to reach me: rizalreymarvin@gmail.com
